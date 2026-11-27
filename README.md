@@ -174,3 +174,10 @@ Educational Mastar Central
 UCI Machine Learning Repository
 
 Developed by Team Medad AI.
+
+## Live Demo
+
+Try PredictAI online:
+
+[Launch PredictAI](https://predictai-medad.streamlit.app/)
+
